@@ -6,7 +6,7 @@ on:
 
 env:
   PROJECT_ID: nest-run 
-  SERVICE: nest-cloud-run 
+  SERVICE: nest-run 
   REGION: southamerica-west1
 
 jobs:

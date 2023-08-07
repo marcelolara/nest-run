@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  PROJECT_ID: nest-run-394915
+  PROJECT_ID: nest-test-394915
   SERVICE: nest-run 
   REGION: southamerica-west1
 
